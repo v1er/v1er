@@ -1,2 +1,2 @@
 # About me
-Hi, i am Vadim Lutsiuk, a student Python Web developer.
+Hi, i am Vadim, a student Python Web developer.
